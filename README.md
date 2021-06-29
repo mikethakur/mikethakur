@@ -1,4 +1,4 @@
-### Hi there 👋
+### Mike Thakur Product Manager | Enterprise Agile 👋
 
 <!--
 **mikethakur/mikethakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
